@@ -1,4 +1,3 @@
 *.log
 *.lock
-database.yml
 manifest.yml
