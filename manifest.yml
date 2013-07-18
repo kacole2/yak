@@ -1,0 +1,8 @@
+---
+applications:
+- name: yakit
+  memory: 128M
+  instances: 1
+  host: yakit-${random-word}
+  domain: cfapps.io
+  path: .
